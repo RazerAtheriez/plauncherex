@@ -1,1 +1,6 @@
-["mods"]
+{
+    "version": "1.0.1",
+    "folders": [
+        "mods"
+    ]
+}
