@@ -4,3 +4,5 @@
   - Кнопка Discord
   - Интеграция с Discord активностью
   - Сохранение ника динамически
+
+https://i.imgur.com/MH3t8FG.jpeg
