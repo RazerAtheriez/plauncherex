@@ -5,4 +5,4 @@
   - Интеграция с Discord активностью
   - Сохранение ника динамически
 
-https://i.imgur.com/MH3t8FG.jpeg
+https://media.discordapp.net/attachments/1150821077157679179/1238445788896432180/2024-05-10_13.53.34.png?ex=67600885&is=675eb705&hm=832aaf5c71fb6a7828f39b7fac9c58fd736f90e38a730c474f2cd3add15a6566&=&format=webp&quality=lossless&width=687&height=386
