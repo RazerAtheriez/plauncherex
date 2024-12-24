@@ -1,6 +1,7 @@
 {
     "version": "1.0.0",
     "folders": [
-        "mods"
+        "mods",
+        "resourcepacks"
     ]
 }
